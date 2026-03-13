@@ -1,0 +1,16 @@
+{
+  "name": "crypto-fortune-cookie",
+  "version": "1.0.0",
+  "description": "Your onchain fortune. Deterministic. Meaningless. Accurate.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "vitest run"
+  },
+  "keywords": ["ethereum", "fortune", "fun", "cli", "web3"],
+  "author": "7abar",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^1.0.0"
+  }
+}
